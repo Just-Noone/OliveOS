@@ -1,4 +1,12 @@
 {
   "versionkey": "0.1.0",
-  "uiversion": "0.0.1"
+  "uiversion": "0.0.1",
+  "assetlist": [
+    "App.sprite3",
+    "Bg (1).sprite3",
+    "ICN3 (1).sprite3",
+    "Screenshot.sprite3",
+    "Stamp Font.sprite3",
+    "Taskbar.sprite3"
+  ]
 }
