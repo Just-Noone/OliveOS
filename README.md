@@ -25,5 +25,5 @@ The OS is very easy to use, as its designed for anybody and everybody
 Please just wait a set amount of time because the OS is in the Alpha phase and it is NOT done yet. Please be patient and join our server for further updates. The server link is in Support
 ## Support
 
-For support, join our [Discord](discord.gg/gPhjeyDQPP)
+For support, join our [Discord](https://discord.gg/gPhjeyDQPP)
 
